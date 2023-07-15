@@ -20,8 +20,8 @@ const Login=()=>{
                 <br /><br />
                 <p>---------- or Sign up with ----------</p>
                 <br />
-                <i class="fa-brands fa-google" id={style.i1}></i>
-                <i class="fa-brands fa-square-facebook" id={style.i2}></i>
+                <a href="https://myaccount.google.com/"><i class="fa-brands fa-google" id={style.i1}></i></a>
+                <a href="https://www.facebook.com/login/"><i class="fa-brands fa-square-facebook" id={style.i2}></i></a>
                 </div>
             </div>
             <div id={style.d2}>
